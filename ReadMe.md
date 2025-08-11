@@ -7,10 +7,9 @@
 
 - 🔭 I’m currently working on [Dark Chat](https://dark-chat-touw.onrender.com)
 - 👯 I’m looking to collaborate on [Dark Chat](https://dark-chat-touw.onrender.com)
-- 🤝 I’m looking for help with [NetworkGuard](https://discord.gg/CrKuGgPrWS)
 - 🌱 I’m currently learning **Firebase**
 - 💬 Ask me about **Dark Chat**
-- 📫 How to reach me **danielupperman.18@gmail.com**
+- 📫 How to reach me **crowncorestudios@gmail.com**
 - 👨‍💻 All of my projects are available at **https://portfolio-97a9.onrender.com**
 - ⚡ Fun fact **I and the creator of OCF and NetworkGuard and Dark Chat**
 
