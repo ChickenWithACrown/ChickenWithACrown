@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChickenWithACrown&theme=dark_lover" alt="ChickenWithACrown" /></a> </p>
 
-- 🔭 I’m currently working on [Dark Chat](https://dark-chat-touw.onrender.com)
-- 👯 I’m looking to collaborate on [Dark Chat](https://dark-chat-touw.onrender.com)
 - 🌱 I’m currently learning **Firebase**
-- 💬 Ask me about **Dark Chat**
 - 📫 How to reach me **crowncorestudios@gmail.com**
-- 👨‍💻 All of my projects are available at **https://portfolio-97a9.onrender.com**
-- ⚡ Fun fact **I and the creator of OCF and NetworkGuard and Dark Chat**
+-  Website: https://crowncorestudios.com
 
 <div> <a href="https://github.com/ChickenWithACrown" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:danielupperman.18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
